@@ -4,16 +4,16 @@
 2. [x] C
 3. [x] A
 4. [x] 0.9759
-5. D ???
-6. ???
+5. D ??? paired/one-sample
+6. [x] 0.5202 [SAS]()
 7. [x] A
 8. [x] D
-9. -0.8821 ???
-10. D ???
-11. ???
+9. -0.8821/0.8821 ???
+10. B ??? did not find source
+11. D ??? [continuity correction]() see note P.87
 12. B; see notes P.113
 13. 0.0551
-14. var2*var1 ???
+14. var2*var1 ??? see notes P.129
 15. [x] D
 16. [x] B
 17. [x] 3.3922
@@ -21,18 +21,18 @@
 19. [x] A
 20. [x] 0.19
 21. [x] A
-22. ???
+22. 106.8/126.6 ??? plus/minus
 23. [x] D
 24. [x] B
 25. [x] A
-26. B ???
-27. -0.3730 ???
-28. ??? bweight
+26. B ??? see notes P.11
+27. -0.3730/-1.3912 ??? plus/minus
+28. [x] 3366.6/3374.9
 29. [x] B
 30. [x] A
-31. C ??? I don't understand, made a choice by elimination
+31. C ??? I don't understand, made a choice by elimination; see notes P.80
 32. -6.836388932852494 ???
 33. [x] C
 34. A E ???
-35. 0.8385 ???
+35. 0.8385 ??? see notes P.88
 36. [x] A
