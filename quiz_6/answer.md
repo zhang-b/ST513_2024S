@@ -11,6 +11,9 @@
 9. -0.8821/0.8821 ??? plus/minus
 10. B ??? see notes P.23
 11. D ??? [continuity correction]() see notes P.86
+    - should be "B":
+      Using a correction on the continuous approximation
+      to the underlying discrete distribution in order to improve the approximation
 12. B; see notes P.34 & P.113
 13. [x] 0.0551
 14. var2*var1 ??? see notes P.128
